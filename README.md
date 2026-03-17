@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevor-kipkoech" alt="trevor-kipkoech" /></a> </p>
 
-- 🔭 I’m currently working on **Koech Brand**
+- 🔭 I’m currently working on **Kinga Enterprises**
 
 - 🌱 I’m currently learning **React Native**
 
