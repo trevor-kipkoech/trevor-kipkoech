@@ -1,10 +1,10 @@
 
 
-- 🔭 I’m currently working on **Kinga Enterprises**
+ I’m currently working on **Kinga Enterprises**
 
-- 🌱 I’m currently learning **React Native**
+ I’m currently learning **React Native**
 
-- 📫 How to reach me **tkipkoech13450@gmail.com**
+📫 How to reach me **tkipkoech13450@gmail.com**
 
 
 
