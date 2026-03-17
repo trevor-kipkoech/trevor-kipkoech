@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Koech Brand**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **tkipkoech13450@gmail.com**
 
