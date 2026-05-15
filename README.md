@@ -1,8 +1,8 @@
 
 
- I’m currently working on **Kinga Enterprises**
+ I’m currently working on Real Estate Web App
 
- I’m currently learning **React Native**
+ I’m currently learning  Laravel and flutter
 
 📫 How to reach me **tkipkoech13450@gmail.com**
 
