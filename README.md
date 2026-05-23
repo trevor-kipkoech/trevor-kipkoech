@@ -1,6 +1,6 @@
 
 
- I’m currently working on Real Estate Web App
+ I’m currently working on Real Estate OS
 
  I’m currently learning  Laravel and flutter
 
