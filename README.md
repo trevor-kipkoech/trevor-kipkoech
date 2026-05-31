@@ -2,7 +2,7 @@
 
  I’m currently working on Real Estate OS
 
- I’m currently learning  Laravel and implementing codeigniter
+ I’m currently learning  Laravel 
 
 📫 How to reach me **tkipkoech13450@gmail.com**
 
