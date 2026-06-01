@@ -2,9 +2,9 @@
 
  I’m currently working on Real Estate OS
 
- I’m currently learning  Laravel 
+ I’m currently learning  Flutter
 
-📫 How to reach me **tkipkoech13450@gmail.com**
+📫 How to reach me **kipkoechtrevor1@gmail.com**
 
 
 
