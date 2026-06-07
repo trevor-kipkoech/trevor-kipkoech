@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Trevor Kipkoech
 
-### 🚀 Full Stack Developer | Laravel | Flutter | React
 
 - 🔭 I’m currently working on **Real Estate OS**, a comprehensive property management and agency platform.
 - 🌱 I’m currently learning **Flutter** for cross-platform mobile app development.
