@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Trevor Kipkoech
+## Hi there  I'm Trevor Kipkoech
 
 
 - 🔭 I’m currently working on **Real Estate OS**, a comprehensive property management and agency platform.
