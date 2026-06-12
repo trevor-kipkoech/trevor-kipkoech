@@ -1,11 +1,11 @@
 ## Hi there  I'm Trevor Kipkoech
 
 
-- 🔭 I’m currently working on **Real Estate OS**, a comprehensive property management and agency platform.
-- 🌱 I’m currently learning **Flutter** for cross-platform mobile app development.
-- 👨‍💻 Building scalable web applications using **Laravel, React, MySQL, and REST APIs**.
-- 💡 Passionate about software development, problem-solving, and creating impactful digital solutions.
-- 📫 Reach me at: **kipkoechtrevor1@gmail.com**
+-  I’m currently working on **Real Estate OS**, a comprehensive property management and agency platform.
+-  I’m currently learning **Flutter** for cross-platform mobile app development.
+-  Building scalable web applications using **Laravel, React, MySQL, and REST APIs**.
+-  Passionate about software development, problem-solving, and creating impactful digital solutions.
+-  Reach me at: **kipkoechtrevor1@gmail.com**
 
 ---
 
