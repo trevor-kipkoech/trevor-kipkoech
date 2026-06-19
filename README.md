@@ -91,6 +91,6 @@
 - Laravel API Development
 - Real Estate OS Development
 - Flutter Mobile Applications
-- Object Storage Implementation with **MinIO**
+- Object Storage Implementation with **MinIO** & **SUPABASE**
 - React Frontend Development
 - Database Design & Optimization
