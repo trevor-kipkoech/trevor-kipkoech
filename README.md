@@ -1,7 +1,7 @@
 ## Hi there  I'm Trevor Kipkoech
 
 -  I’m currently working on **Retail operations applications with management**
--  I’m currently learning **Flutter and Laravel** for cross-platform mobile app development.
+-  I’m currently learning **Flutter and Laravel** for cross-platform mobile app and proportion development.
 -  Building scalable web applications using **Laravel, React, MySQL, MinIO, and REST APIs**.
 -  Passionate about software development, problem-solving, and creating impactful digital solutions.
 -  Reach me at: **tkipkoech13450@gmail.com**
